@@ -1,0 +1,13 @@
+body {
+  background-color: #fff;
+  text-align: left;
+}
+
+#add-sec {
+  text-align: left;
+}
+
+.input-text {
+  display: flex;
+  margin-bottom: 15px;
+}
